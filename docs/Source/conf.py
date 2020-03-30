@@ -12,7 +12,7 @@
 #
 import os
 import sys
-sys.path.append("/../CartoCosmos")
+sys.path.append("JupyterModule/CartoCosmos")
 
 
 extensions = [
