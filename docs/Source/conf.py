@@ -12,7 +12,7 @@
 #
 import os
 import sys
-sys.path.append("/Users/jkaufy/Desktop/Pydocs/sphinx/Scripts")
+sys.path.append("/../CartoCosmos")
 
 
 extensions = [
