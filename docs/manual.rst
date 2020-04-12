@@ -15,7 +15,7 @@ Components
 - (red) ⇒ Longitude and Latitude Buttons
 - (yellow) ⇒ Under-Cursor Coordinate Display
 
-.. image:: ControlsM.png
+.. image:: imgs/ControlsM.png
 
 **The Map**
 
@@ -24,14 +24,14 @@ Components
 - (yellow) ⇒ Layer Switcher
 - (yellow) ⇒ Draw Control
 
-.. image:: mapM.png
+.. image:: imgs/mapM.png
 
 **Draw Well-Known text strings**
 
 - (red) ⇒  Draw Button
 - (blue) ⇒ Input Box
 
-.. image:: wktM.png
+.. image:: imgs/wktM.png
 
 Instructions
 ============
