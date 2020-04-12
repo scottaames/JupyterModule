@@ -10,7 +10,5 @@ Using pip
 Using conda
 ===========
 
-.. code:: bash
-
-    Coming Soon
+For installation with conda you can use our :ref: 'enivronment.yml<https://github.com/CartoCosmos/CartoCosmos/blob/master/jupyter/environment.yml>' location on our github. :ref:
 
