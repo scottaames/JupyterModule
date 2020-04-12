@@ -15,7 +15,6 @@ import sys
 sys.path.append("/Scripts")
 sys.path.append("/Users/jkaufy/Desktop/Pydocs/sphinx/imgs")
 
-
 extensions = [
              'nbsphinx',
              'sphinx.ext.autodoc',
