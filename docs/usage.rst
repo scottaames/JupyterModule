@@ -6,10 +6,11 @@ CartoCosmos is an interactive planetary map viewer, it is based on `ipywidgets <
 USGS has researched.
 For example, you can create a map of Mars and interact with it:
 
-.. toctree:: 
-    :caption: Maps
+.. jupyter-execute::
 
-    Example.ipynb
+    import CartoCosmos as l
+    map = l.planetary_maps('mars')
+    map.display_map()
 
 
 

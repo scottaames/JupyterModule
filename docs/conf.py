@@ -18,6 +18,7 @@ sys.path.append("/Users/jkaufy/Desktop/Pydocs/sphinx/imgs")
 extensions = [
              'nbsphinx',
              'sphinx.ext.autodoc',
+              'jupyter_sphinx.execute',
              ]
 
 templates_path = ['_templates']
