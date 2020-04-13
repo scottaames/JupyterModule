@@ -25,7 +25,9 @@ This will create a conda envirnment named leaflet containing the packages needed
 .. code:: base
 
     conda activate leaflet
+
 5. Finally, open our example notebook: 
+
 .. code:: base
 
     jupyter notebook examples/Example.ipynb.
