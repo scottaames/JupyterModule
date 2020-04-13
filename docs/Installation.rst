@@ -19,7 +19,9 @@ Using conda
     conda env create -f environment.yml
 
 This will create a conda envirnment named leaflet containing the packages needed to run our jupyter notebooks.
+
 4. Now, activate the environment:
+
 .. code:: base
 
     conda activate leaflet
